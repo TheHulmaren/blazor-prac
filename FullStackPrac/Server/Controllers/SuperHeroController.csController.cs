@@ -40,7 +40,7 @@ namespace FullStackPrac.Server.Controllers
             {
                 return NotFound("Sorry, no hero found with id: " + id);
             }
-            return Ok(Heroes);
+            return Ok(hero);
         }
     };
 }

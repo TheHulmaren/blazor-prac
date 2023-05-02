@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-CvlfDmNgFRYT7l\/xZKu91FlbTFyLG\/5cH7YX63k9ghE=",
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
       "FullStackPrac.Shared.dll": "sha256-gtrUNmnRt4aw5nhdlu+\/EKA9BuYX0I7gGxDDWmF4aFc=",
-      "FullStackPrac.Client.dll": "sha256-kl8Jr2ARX7XNXZTu0ofkSGTaD258v\/xsfEqvWUvCsv0="
+      "FullStackPrac.Client.dll": "sha256-T1ikZsVTjGUVMVtWd+DzjZXcLBwbyvTPN0Uq5D9VErs="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "FullStackPrac.Shared.pdb": "sha256-NGjzCeOJFxCBoUDPBC\/R4p6fPqfRKUiHChSNEXN7p5w=",
-      "FullStackPrac.Client.pdb": "sha256-hdLpkyWgZJsHS1eeUFTZ9Zn6+fNCrBIO4Sxzl69lM0k="
+      "FullStackPrac.Client.pdb": "sha256-IUh00DRo698NI2CIQsLWwBNNq06oxyOxVp547I8tPe4="
     },
     "runtime": {
       "dotnet.6.0.7.qejowyzy5l.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
