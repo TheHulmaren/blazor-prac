@@ -7,12 +7,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.7"/>
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.7" />
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Client\FullStackPrac.Client.csproj"/>
-        <ProjectReference Include="..\Shared\FullStackPrac.Shared.csproj"/>
+        <ProjectReference Include="..\Client\FullStackPrac.Client.csproj" />
+        <ProjectReference Include="..\Shared\FullStackPrac.Shared.csproj" />
     </ItemGroup>
 
 
