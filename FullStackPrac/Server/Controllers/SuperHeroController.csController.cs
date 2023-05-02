@@ -21,9 +21,9 @@ namespace FullStackPrac.Server.Controllers
         public static List<SuperHero> Heroes = new List<SuperHero>
         {
             new SuperHero
-                { Id = 1, FirstName = "Peter", LastName = "Parker", HeroName = "Spiderman", comic = Comics[0] },
+                { Id = 1, FirstName = "Peter", LastName = "Parker", HeroName = "Spiderman", Comic = Comics[0] },
             new SuperHero
-                { Id = 2, FirstName = "Bruce", LastName = "Wayne", HeroName = "Batman", comic = Comics[1] },
+                { Id = 2, FirstName = "Bruce", LastName = "Wayne", HeroName = "Batman", Comic = Comics[1] },
         };
 
         [HttpGet]

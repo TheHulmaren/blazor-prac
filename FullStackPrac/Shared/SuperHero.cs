@@ -16,6 +16,6 @@ namespace FullStackPrac.Shared
 
         public string HeroName { get; set; } = string.Empty;
 
-        public Comic? comic { get; set; }
+        public Comic? Comic { get; set; }
     }
 }
